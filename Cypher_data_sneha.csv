@@ -1,0 +1,101 @@
+﻿name,code,department,manager_name,manager_code,manager_department
+John Doe,E001,Finance,Jane Smith,M001,Finance
+Alice Johnson,E002,Marketing,David Brown,M002,Marketing
+Michael Williams,E003,Human Resources,Sarah Wilson,M003,Human Resources
+Emily Davis,E004,Finance,John Doe,E001,Finance
+Daniel Martinez,E005,Marketing,Alice Johnson,E002,Marketing
+Laura Thompson,E006,Human Resources,Michael Williams,E003,Human Resources
+Ella Garcia,E007,Finance,John Doe,E001,Finance
+William Rodriguez,E008,Marketing,Alice Johnson,E002,Marketing
+Sophia Martinez,E009,Human Resources,Michael Williams,E003,Human Resources
+David Wilson,E010,Finance,John Doe,E001,Finance
+Emma Anderson,E011,Marketing,Alice Johnson,E002,Marketing
+James Taylor,E012,Human Resources,Michael Williams,E003,Human Resources
+Olivia Thomas,E013,Finance,John Doe,E001,Finance
+Oliver Jackson,E014,Marketing,Alice Johnson,E002,Marketing
+Sophie Harris,E015,Human Resources,Michael Williams,E003,Human Resources
+Ryan Phillips,E016,Finance,John Doe,E001,Finance
+Natalie Clark,E017,Marketing,Alice Johnson,E002,Marketing
+Benjamin Lewis,E018,Human Resources,Michael Williams,E003,Human Resources
+Victoria Walker,E019,Finance,John Doe,E001,Finance
+Samuel Young,E020,Marketing,Alice Johnson,E002,Marketing
+Alexis Allen,E021,Human Resources,Michael Williams,E003,Human Resources
+Nicholas King,E022,Finance,John Doe,E001,Finance
+Hannah Wright,E023,Marketing,Alice Johnson,E002,Marketing
+Joseph Lee,E024,Human Resources,Michael Williams,E003,Human Resources
+Gabriella Scott,E025,Finance,John Doe,E001,Finance
+Dylan Green,E026,Marketing,Alice Johnson,E002,Marketing
+Isabella Baker,E027,Human Resources,Michael Williams,E003,Human Resources
+Luke Hill,E028,Finance,John Doe,E001,Finance
+Madeline Adams,E029,Marketing,Alice Johnson,E002,Marketing
+Ethan Carter,E030,Human Resources,Michael Williams,E003,Human Resources
+Lillian Murphy,E031,Finance,John Doe,E001,Finance
+Joshua Rivera,E032,Marketing,Alice Johnson,E002,Marketing
+Leah Cooper,E033,Human Resources,Michael Williams,E003,Human Resources
+Aaron Richardson,E034,Finance,John Doe,E001,Finance
+Ashley Brooks,E035,Marketing,Alice Johnson,E002,Marketing
+Bryan Wood,E036,Human Resources,Michael Williams,E003,Human Resources
+Sophie Butler,E037,Finance,John Doe,E001,Finance
+Christopher Ward,E038,Marketing,Alice Johnson,E002,Marketing
+Charlotte Foster,E039,Human Resources,Michael Williams,E003,Human Resources
+Elijah Long,E040,Finance,John Doe,E001,Finance
+Grace Morris,E041,Marketing,Alice Johnson,E002,Marketing
+Julian Reed,E042,Human Resources,Michael Williams,E003,Human Resources
+Nora Bailey,E043,Finance,John Doe,E001,Finance
+Oscar Cooper,E044,Marketing,Alice Johnson,E002,Marketing
+Penelope King,E045,Human Resources,Michael Williams,E003,Human Resources
+Quinn Parker,E046,Finance,John Doe,E001,Finance
+Rose Hughes,E047,Marketing,Alice Johnson,E002,Marketing
+Theo Bryant,E048,Human Resources,Michael Williams,E003,Human Resources
+Violet Russell,E049,Finance,John Doe,E001,Finance
+Wyatt Brooks,E050,Marketing,Alice Johnson,E002,Marketing
+Zoe Coleman,E051,Human Resources,Michael Williams,E003,Human Resources
+Adam Nelson,E052,Finance,John Doe,E001,Finance
+Bella Murphy,E053,Marketing,Alice Johnson,E002,Marketing
+Cole Bennett,E054,Human Resources,Michael Williams,E003,Human Resources
+Daisy Richardson,E055,Finance,John Doe,E001,Finance
+Eliana Price,E056,Marketing,Alice Johnson,E002,Marketing
+Finn Adams,E057,Human Resources,Michael Williams,E003,Human Resources
+Gemma Kelly,E058,Finance,John Doe,E001,Finance
+Henry Watson,E059,Marketing,Alice Johnson,E002,Marketing
+Ivy Howard,E060,Human Resources,Michael Williams,E003,Human Resources
+Jack Ellis,E061,Finance,John Doe,E001,Finance
+Kylie Brooks,E062,Marketing,Alice Johnson,E002,Marketing
+Liam Cooper,E063,Human Resources,Michael Williams,E003,Human Resources
+Mila Bennett,E064,Finance,John Doe,E001,Finance
+Noah Richardson,E065,Marketing,Alice Johnson,E002,Marketing
+Olivia Nelson,E066,Human Resources,Michael Williams,E003,Human Resources
+Parker Price,E067,Finance,John Doe,E001,Finance
+Quinn Adams,E068,Marketing,Alice Johnson,E002,Marketing
+Ruby Russell,E069,Human Resources,Michael Williams,E003,Human Resources
+Samuel Kelly,E070,Finance,John Doe,E001,Finance
+Taylor Watson,E071,Marketing,Alice Johnson,E002,Marketing
+Uma Howard,E072,Human Resources,Michael Williams,E003,Human Resources
+Vincent Ellis,E073,Finance,John Doe,E001,Finance
+Willow Brooks,E074,Marketing,Alice Johnson,E002,Marketing
+Xander Cooper,E075,Human Resources,Michael Williams,E003,Human Resources
+Yara Bennett,E076,Finance,John Doe,E001,Finance
+Zane Richardson,E077,Marketing,Alice Johnson,E002,Marketing
+Amelia Nelson,E078,Human Resources,Michael Williams,E003,Human Resources
+Benjamin Price,E079,Finance,John Doe,E001,Finance
+Clara Adams,E080,Marketing,Alice Johnson,E002,Marketing
+Dylan Russell,E081,Human Resources,Michael Williams,E003,Human Resources
+Ella Kelly,E082,Finance,John Doe,E001,Finance
+Felix Watson,E083,Marketing,Alice Johnson,E002,Marketing
+Grace Howard,E084,Human Resources,Michael Williams,E003,Human Resources
+Henry Ellis,E085,Finance,John Doe,E001,Finance
+Ivy Brooks,E086,Marketing,Alice Johnson,E002,Marketing
+Jack Cooper,E087,Human Resources,Michael Williams,E003,Human Resources
+Kylie Bennett,E088,Finance,John Doe,E001,Finance
+Liam Richardson,E089,Marketing,Alice Johnson,E002,Marketing
+Mila Nelson,E090,Human Resources,Michael Williams,E003,Human Resources
+Noah Price,E091,Finance,John Doe,E001,Finance
+Olivia Adams,E092,Marketing,Alice Johnson,E002,Marketing
+Parker Russell,E093,Human Resources,Michael Williams,E003,Human Resources
+Quinn Kelly,E094,Finance,John Doe,E001,Finance
+Ruby Watson,E095,Marketing,Alice Johnson,E002,Marketing
+Samuel Howard,E096,Human Resources,Michael Williams,E003,Human Resources
+Taylor Ellis,E097,Finance,John Doe,E001,Finance
+Uma Brooks,E098,Marketing,Alice Johnson,E002,Marketing
+Vincent Cooper,E099,Human Resources,Michael Williams,E003,Human Resources
+Willow Bennett,E100,Finance,John Doe,E001,Finance
